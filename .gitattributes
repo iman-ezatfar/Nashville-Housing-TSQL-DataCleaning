@@ -1,1 +1,3 @@
 -- TSQL Data Cleaning
+# This file configures GitHub language detection
+*.sql linguist-language=TSQL
